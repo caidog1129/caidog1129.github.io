@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Junyang Cai"
   avatar           : "profile.png"
-  bio              : "computer science student at Bucknell University"
+  bio              : "jc092@bucknell.edu"
   location         : "Lewisburg, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=McsOfrUAAAAJ"
-  email            : "jc092@bucknell.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/caidog1129"
+  github           : "caidog1129"
   google_plus      :
   keybase          :
   instagram        :
