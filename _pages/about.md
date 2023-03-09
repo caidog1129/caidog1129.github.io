@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-+This is me!
++I am a senior computer science student at Bucknell University. I am interested in Machine Learning and Operations Research.
+
+News
