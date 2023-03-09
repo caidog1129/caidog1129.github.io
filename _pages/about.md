@@ -14,5 +14,5 @@ I am from Nanjing, China.
 
 News
 ======
-* 05.2023 Going to graduate from Bucknell Unversity
-* 02.2023 Presented my work during last summer at [SPIE - Medical Imaging 2023](https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1)
+* 05.2023 - Graduating from Bucknell Unversity
+* 02.2023 - Presented my work during last summer at [SPIE - Medical Imaging 2023](https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1)
