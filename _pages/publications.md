@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * [Getting away with more network pruning: From sparsity to geometry and linear regions.](https://arxiv.org/abs/2301.07966)  
-  **Junyang Cai**, Nguyen Nguyen, Nishant Shrestha, Aidan Good, Ruisen Tu, Xin Yu, Thiago Serra.  
+  **Junyang Cai\***, Nguyen Nguyen\*, Nishant Shrestha, Aidan Good, Ruisen Tu, Xin Yu, Thiago Serra.  
   CPAIOR. 2023.
   
   
