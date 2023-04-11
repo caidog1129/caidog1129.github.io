@@ -10,6 +10,6 @@ author_profile: true
   CPAIOR. 2023.
   
   
-* [Co-Unet-GAN: a Co-Learning Domain Adaptation Model on Echocardiography Segmentation.](http://eg.bucknell.edu/~jvs008/research/cardiac/SPIE23/SPIE23.html)  
-**Junyang Cai**, Christopher M. Haggerty, Joshua V. Stough.  
-SPIE - Medical Imaging. 2023.
+* [Co-Unet-GAN: a Co-Learning Domain Adaptation Model on Echocardiography Segmentation.](https://doi.org/10.1117/12.2652621)  
+  **Junyang Cai**, Christopher M. Haggerty, Joshua V. Stough.  
+  Proceedings Volume 12464, Medical Imaging 2023: Image Processing; 124641B
