@@ -10,8 +10,6 @@ redirect_from:
 
 I am a first year Computer Science Ph.D. student at USC University of Southern California advised by Professor [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra). I am affilated with [USC Center for Artificial Intelligence(CAIS)](https://cais.usc.edu/) and [Artificial Intelligence Institute for Advances in Optimization(AI4OPT)](https://www.ai4opt.org/). I am interested in the combination of machine learning and optimization and solving real-world optimization problems.
 
-I am from Nanjing, China.
-
 News
 ======
 * 08.2023 - Starting my first year as a phd student!
