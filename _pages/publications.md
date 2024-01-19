@@ -4,7 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.]
+  **Junyang Cai**, Taoan Huang, Bistra Dilkina
 
+
+* [Optimization Over Trained Neural Networks: Taking a Relaxing Walk.](https://arxiv.org/abs/2401.03451)
+  Jiatai Tong, **Junyang Cai**, Thiago Serra
+
+  
 * [Getting away with more network pruning: From sparsity to geometry and linear regions.](https://arxiv.org/abs/2301.07966)  
   **Junyang Cai\***, Nguyen Nguyen\*, Nishant Shrestha, Aidan Good, Ruisen Tu, Xin Yu, Thiago Serra.  
   CPAIOR. 2023.
