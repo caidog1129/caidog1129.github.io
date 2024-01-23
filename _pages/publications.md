@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.](https://arxiv.org/abs/2401.10467)
+* [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.](https://arxiv.org/abs/2401.10467)  
   **Junyang Cai**, Taoan Huang, Bistra Dilkina
 
 
-* [Optimization Over Trained Neural Networks: Taking a Relaxing Walk.](https://arxiv.org/abs/2401.03451)
+* [Optimization Over Trained Neural Networks: Taking a Relaxing Walk.](https://arxiv.org/abs/2401.03451)  
   Jiatai Tong, **Junyang Cai**, Thiago Serra
 
   
