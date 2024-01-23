@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.]
+* [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.](https://arxiv.org/abs/2401.10467)
   **Junyang Cai**, Taoan Huang, Bistra Dilkina
 
 
