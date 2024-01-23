@@ -12,7 +12,7 @@ I am a first year Computer Science Ph.D. student at University of Southern Calif
 
 News
 ======
-* 01.2024 - Our paper [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.] is on arxiv!
+* 01.2024 - Our paper [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.](https://arxiv.org/abs/2401.10467) is on arxiv!
 * 12.2023 - Our paper [Optimization Over Trained Neural Networks: Taking a Relaxing Walk.](https://arxiv.org/abs/2401.03451) is on arxiv!
 * 10.2023 - Selected as INFORMS 2023 Undergraduate Operations Research Prize Finalist!
 * 08.2023 - Starting my first year as a phd student!
